@@ -1,17 +1,30 @@
 # Raspberry Pi Car with Ultrasonic Sensor, Camera, and Keyboard Control
 
-This project is a Python script designed to control a raspberry pi car using keyboard input via a Tkinter GUI while monitoring the environment using an ultrasonic sensor and displaying the camera feed with FPS overlay.
+This project enables you to control a Raspberry Pi-powered car using keyboard input, while using an ultrasonic sensor to avoid obstacles and a camera to monitor the environment. The camera feed displays an FPS overlay, providing a real-time visual feed of the car's surroundings.
 
 ## Demo
-![carDemo](https://github.com/GurpreetSingh97/Raspberry-Pi-Car/assets/36395745/5415aa4a-6aba-48f6-ae4d-8b6b5c18ac01)
+<!--![carDemo](https://github.com/GurpreetSingh97/Raspberry-Pi-Car/assets/36395745/5415aa4a-6aba-48f6-ae4d-8b6b5c18ac01)-->
+<!-- ![IMG_9057 (2)](https://github.com/user-attachments/assets/2391f06e-3984-49a7-96db-09955cc34d18)-->
+<!-- ![finalMat](https://github.com/user-attachments/assets/57674fba-e75e-41b3-ad5c-82216553862f)-->
+<!-- ![upperw](https://github.com/user-attachments/assets/2c5f1392-0ccd-47c5-a845-2e85be1c935a) -->
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2391f06e-3984-49a7-96db-09955cc34d18" alt="IMG_9057 (2)">
+</p>
+<p align="center">Car in Motion</p>
 
+<br> <!-- Add a line break -->
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/57674fba-e75e-41b3-ad5c-82216553862f" alt="finalMat">
+</p>
+<p align="center">Ultrasonic Sensor Readings and Car's Perspective</p>
 
 ## Requirements
 
 - Raspberry Pi (tested on Raspberry Pi 3 Model B+)
 - Ultrasonic sensor (HC-SR04 or similar)
-- Raspberry Pi camera module
+- Raspberry Pi camera
 - 4-wheeled car chassis with motor drivers compatible with GPIO pins
 - Python 3
 - OpenCV (`opencv-python`)
