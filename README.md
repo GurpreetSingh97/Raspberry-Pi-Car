@@ -17,7 +17,7 @@ This 4-wheel drive car is powered by a Raspberry Pi 3 and can be controlled wire
 <p align="center">
   <img src="https://github.com/user-attachments/assets/57674fba-e75e-41b3-ad5c-82216553862f" alt="finalMat">
 </p>
-<p align="center">Ultrasonic Sensor Readings and Car's Perspective</p>
+<p align="center">Real-Time Ultrasonic Sensor Readings and Live Camera Feed from the Car</p>
 
 ## Requirements
 
