@@ -1,7 +1,6 @@
-# Raspberry Pi Car with Ultrasonic Sensor, Camera, and Keyboard Control
+# Raspberry Pi Car with Ultrasonic Sensor, Camera, & Keyboard Control
 
-This 4-wheel drive car is powered by a Raspberry Pi 3 and can be controlled wirelessly through a Tkinter-based UI. It uses ultrasonic sensors for real-time object collision detection and movement is managed with Python’s GPIOZero library. The car also features a live camera feed, streamed using OpenCV, allowing remote control with video streaming. A mobile app, currently in development in Java, will enable intuitive control through the phone’s gyroscope. To operate, simply run the `rasPiCar.py` script, which integrates both the car’s control system and the live camera feed.
-
+This 4-wheel drive car is powered by a Raspberry Pi 3 and can be controlled wirelessly through a Tkinter-based UI. It uses ultrasonic sensors for real-time object collision detection and movement is managed with Python’s GPIOZero library. The car also features a live camera feed, streamed using OpenCV, allowing remote control with video streaming. A mobile app, currently in development in Java, will enable intuitive control through the phone’s gyroscope.
 ## Demo
 <!--![carDemo](https://github.com/GurpreetSingh97/Raspberry-Pi-Car/assets/36395745/5415aa4a-6aba-48f6-ae4d-8b6b5c18ac01)-->
 <!-- ![IMG_9057 (2)](https://github.com/user-attachments/assets/2391f06e-3984-49a7-96db-09955cc34d18)-->
